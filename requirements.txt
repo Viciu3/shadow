@@ -9,4 +9,4 @@ APScheduler
 qrcode
 pytz
 python-dotenv
-aiogram==2.25.1
+
