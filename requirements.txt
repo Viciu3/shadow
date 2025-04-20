@@ -2,7 +2,6 @@ python-telegram-bot
 requests
 beautifulsoup4
 SQLAlchemy
-psycopg2-binary
 mysqlclient
 redis
 pymongo
