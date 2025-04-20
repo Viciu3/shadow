@@ -1,12 +1,11 @@
+telegram
 python-telegram-bot
 requests
 beautifulsoup4
 SQLAlchemy
 redis
-pymongo
 schedule
 APScheduler
-Pillow
 qrcode
 pytz
 python-dotenv
